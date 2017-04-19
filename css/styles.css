@@ -1,0 +1,68 @@
+body {
+  text-align: left;
+  background-color: lightyellow;
+}
+
+.shows {
+  float: left;
+  max-width: 20%;
+  margin: 2%;
+  text-align: left;
+  background-color: lightblue;
+  border-style: ridge;
+  border-width: thick;
+  border-color: navy;
+  padding: 10px;
+}
+
+.gallery {
+  float: right;
+  max-width: 20%;
+  margin: 2%;
+}
+
+img {
+  max-width: 200px;
+  max-height: 200px;
+
+}
+
+.nodots {
+  list-style: none;
+
+}
+
+.things {
+  float:left;
+  max-width: 48%;
+  margin: 2%;
+}
+
+.wrapper {
+  min-width: 1467px;
+}
+
+iframe {
+  float: left;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+  background-color: white;
+  border-style: double;
+  border-width: 60pt;
+  border-color: yellow;
+  padding: 10px;
+
+}
+
+h3 {
+  text-align: center;
+}
+
+.filler {
+  font-size: 1.2em;
+}
