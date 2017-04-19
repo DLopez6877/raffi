@@ -19,6 +19,10 @@ body {
   float: right;
   max-width: 20%;
   margin: 2%;
+  text-align: center;
+  border: thick ridge navy;
+  background-color: lightblue;
+  padding: 10px 30px 10px 0px;
 }
 
 img {
@@ -65,4 +69,14 @@ h3 {
 
 .filler {
   font-size: 1.2em;
+}
+
+.shows p {
+  font-style: italic;
+  color: darkblue;
+}
+
+.gallery p {
+  font-style: italic;
+  color: darkblue;
 }
